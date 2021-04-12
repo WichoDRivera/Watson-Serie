@@ -38,8 +38,7 @@
 # Watson Discovery
 Facilita la construcción de aplicaciones de exploración cognitivas y basadas en la nube que desbloquean las percepciones accionables que hay ocultos en los datos no estructurados, permitiendo extraer el sentimiento, las entidades, los conceptos, los roles semánticos, etc..
 
-[![IBM Cloud Watson Discovery][img-discovery]][url-discovery] 
-[![Demo Discovery][img-demodis]][url-demodis] 
+[![IBM Cloud Watson Discovery][img-discovery]][url-discovery]  
 
 El principal beneficio de usar **Watson Discovery** es el poderoso motor de analisis que provee enriquecimientos cognitivos y caracteristicas a tu información. Esto provee ejemplos de como mostrar estos enriquecimientos mediante el uso de filtros, listas y graficas. Los principales enriquecimientos en los que nos enfocaremos son:
 
