@@ -49,42 +49,22 @@ El principal beneficio de usar **Watson Discovery** es el poderoso motor de anal
 * Palabras clave - Temas importantes usados de forma tipica para buscar o encontrar información.
 * Sentimientos - El sentimiento total positivo o negativo de cada documento.
 
-Usaremos información de reseñas de de una pizzeria en CDMX.
-<br>
-La arquitectura que se usara para esta app es la siguiente:
-
-![architecture](doc/source/images/architecture.png)
-
-### Mira este video para mayor información
-
-[![video](https://img.youtube.com/vi/5EEmQwcjUa4/0.jpg)](https://youtu.be/5EEmQwcjUa4)
 
 # Clonar repositorio:
 [Watson Discovery][url-dis]
 
 [url-dis]: https://github.com/ibmdevelopermx/watson-discovery
 
-## Antes de empezar te recomendamos:
-* Realizar el [PreWork][url-prework].
-* Si eres estudiante o profesor y tienes correo institucional te recomendamos los [Cupones][url-cupones].
-* Si tienes algun codigo promocional te decimos como [Aplicarlos][url-aplica].
 
-[url-prework]: https://github.com/ibmdevelopermx/Watson-Serie#Prework
-[url-cupones]: https://github.com/ibmdevelopermx/Watson-Serie#Cupones-para-profesores-y-estudiantes
-[url-aplica]: https://github.com/ibmdevelopermx/Watson-Serie#Cargar-cr%C3%A9ditos-en-IBM-Cloud
-
-
-## Módulo: Discovery
-IBM Developer Advocates Team
-### Indice
-* [Crear instancia de Discovery](#Crear-una-instancia-de-Discovery)
+## Contenido
+* [Creación de una instancia de Discovery](#Crear-una-instancia-de-Discovery)
 * [Realizar el scrapping de los datos](#Preparar-datos-y-documentos)
 * [Realizar una consulta a la base de datos](#Realizar-una-consulta-a-la-base-de-datos) 
 * [Crear una consulta](#Crear-una-consulta)
 * [Realizar una consulta](#Realizar-una-consulta)
 * [Desplegar una app que consuma el servicio](#Despliegue)
 
-## Crear una instancia de Discovery<br>
+# Crear una instancia de Discovery
 1. En la parte superior derecha, damos clic en catalog o catálogo.
 2. En el menú del lado izquierdo, selecciona la opción de AI y posteriormente, el servicio de Discovery.
 ![](img/im2.png)
