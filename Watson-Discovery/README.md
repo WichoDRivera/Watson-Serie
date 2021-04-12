@@ -9,6 +9,32 @@
 * Tener una cuenta en [**Github**](https://github.com).<br/>
 * **Clonar este Repositorio**.<br/> 
 
+## Cupones para profesores y estudiantes:
+
+* Acceder al portal de [IBM Academic Initiative][url-academic] y seleccionar la opción "Register now" si aun no tienes cuenta.
+* Realizar el registro correspondiente utilizando la cuenta de correo académica y confirma tu cuenta.
+* Despues de confirmar tu cuenta, y con la sesion iniciada en IBM Academic Initiative, en la parte de "Most Popular Topics covered", encontraremos **IBM Cloud** y damos clic en "Learn more".
+* Bajamos de la pagina hasta encontrar "Software". Le damos clic, nos dara un apartado que se llama "Request Feature Code".
+* Nos dara nuestro codigo. Lo copiamos y lo llevamos a **IBM Cloud**.
+
+## Cargar créditos en IBM Cloud:
+
+* En la parte superior derecha, buscaremos la parte de "MANAGE"/"GESTIONAR", nos desplegara una lista y seleccionaremos "Account"/"Cuenta".
+* De lado izquierdo, tendremos una opción "Account settings"/"Configuracion de cuenta".
+* Bajamos un poco hasta encontrar "Subscription and feature codes"/"Codigos de suscripción y carateristicas".
+* Da clic en "Apply code"/"Aplicar codigo".
+* Ingresamos el codigo y clic en "Apply"/"Aplicar".
+
+[url-academic]: https://my15.digitalexperience.ibm.com/b73a5759-c6a6-4033-ab6b-d9d4f9a6d65b/dxsites/151914d1-03d2-48fe-97d9-d21166848e65/home/
+[url-onthehub]: https://onthehub.com/ibm/?utm_sourc=ibm-ai-productpage&utm_medium=onthehubproductpage&utm_campaign=IBM
+[url-IBMCLOUD]: https://cloud.ibm.com/registration
+[url-CLI-IBMCLOUD]: https://cloud.ibm.com/docs/cli/reference/ibmcloud?topic=cloud-cli-install-ibmcloud-cli
+[url-github-join]: https://github.com/join
+[url-github-cli]: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+[url-githubdesktop]: https://desktop.github.com/
+[url-node]: https://nodejs.org/es/download/
+
+
 # Watson Discovery
 Facilita la construcción de aplicaciones de exploración cognitivas y basadas en la nube que desbloquean las percepciones accionables que hay ocultos en los datos no estructurados, permitiendo extraer el sentimiento, las entidades, los conceptos, los roles semánticos, etc..
 
