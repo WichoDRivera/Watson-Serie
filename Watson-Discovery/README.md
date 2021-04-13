@@ -48,13 +48,6 @@ El principal beneficio de usar **Watson Discovery** es el poderoso motor de anal
 * Palabras clave - Temas importantes usados de forma tipica para buscar o encontrar información.
 * Sentimientos - El sentimiento total positivo o negativo de cada documento.
 
-
-# Clonar repositorio:
-[Watson Discovery][url-dis]
-
-[url-dis]: https://github.com/ibmdevelopermx/watson-discovery
-
-
 ## Contenido
 * [Creación de una instancia de Discovery](#Crear-una-instancia-de-Discovery)
 * [Realizar el scrapping de los datos](#Preparar-datos-y-documentos)
