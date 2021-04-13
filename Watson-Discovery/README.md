@@ -59,7 +59,7 @@ El principal beneficio de usar **Watson Discovery** es el poderoso motor de anal
 # Crear una instancia de Discovery
 1. En la parte superior derecha, damos clic en catalog o catálogo.
 2. En el menú del lado izquierdo, selecciona la opción de AI y posteriormente, el servicio de Discovery.
-![](img/im2.png)
+![](img/im40.png)
 ![](img/im3.png)
 3. Le damos nombre al servicio, seleccionamos el plan de pago que querramos y damos clic en Create o Crear.
 ![](img/im4.png)
